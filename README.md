@@ -1,6 +1,5 @@
 
-This format enhances readability and provides clear sections for features, technologies, project files, and author information. ```markdown
-# 🌸 AniWorld
+# AniWorld
 
 AniWorld is a simple front-end anime movie listing website made using **HTML**, **CSS**, and **JavaScript**. It's designed for showcasing anime content in a clean and organized layout for fans and users alike.
 
